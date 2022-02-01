@@ -1,0 +1,13 @@
+.collapse button {
+  border-radius: 16px;
+}
+
+.NavBar i {
+  font-size: 1.5em;
+  color: #ffffffce;
+}
+
+.NavBar {
+  display: flex;
+  justify-content: space-around;
+}

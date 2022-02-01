@@ -1,0 +1,18 @@
+.ServiceList img {
+  border-radius: 16px;
+  padding: 5px;
+}
+
+.ServiceList {
+  margin-bottom: 2em;
+  margin-top: 7em;
+}
+
+.serviceList-card {
+  border-radius: 16px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 4px 6px rgba(0, 0, 0, 0.45);
+}
+.serviceList-card a {
+  border-radius: 16px;
+  background-color: #000080 !important;
+}

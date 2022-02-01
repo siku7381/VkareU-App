@@ -1,0 +1,17 @@
+.banner {
+  margin-bottom: 3em;
+  background-color: #000080;
+}
+
+.items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0 15px;
+}
+
+.items img {
+  border-radius: 16px;
+  height: 200px;
+  width: 100%;
+}
